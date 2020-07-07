@@ -1,0 +1,257 @@
+#content {
+    position: absolute;
+    top: 200px;
+}
+
+#logo {
+
+
+    position: relative;
+    left: 320px;
+}
+
+#menu {
+
+    margin: 50px;
+}
+
+#sol {
+    background-image: url("img/buton.png");
+    width: 160px;
+    height: 50px;
+    position: absolute;
+    left: 130px;
+    top: 40px;
+}
+
+#sag1 {
+
+    background-image: url("img/buton.png");
+    width: 160px;
+    height: 50px;
+    position: absolute;
+    left: 590px;
+    top: 40px;
+    text-decoration: none;
+
+}
+
+#sag2 {
+
+    background-image: url("img/buton.png");
+    width: 160px;
+    height: 50px;
+    position: absolute;
+    left: 770px;
+    top: 40px;
+}
+
+.anasayfa {
+
+    color: white;
+    position: absolute;
+    left: 50px;
+    top: 15px;
+    text-align: justify;
+}
+
+.tyer {
+
+    color: white;
+    position: absolute;
+    left: 38px;
+    top: 15px;
+    text-align: justify;
+}
+
+.fgal {
+
+    color: white;
+    position: absolute;
+    left: 28px;
+    top: 15px;
+    text-align: justify;
+}
+
+
+
+a:link,
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: goldenrod;
+}
+
+#banner {
+    background-image: url("img/banner.png");
+    background-repeat: repeat-x;
+    position: absolute;
+    left: 120px;
+    top: 120px;
+    width: 830px;
+    height: 133px;
+    clear: both;
+}
+
+.bannertext {
+    color: green;
+    position: absolute;
+    left: 280px;
+    top: 8px;
+}
+
+.bread {
+    color: white;
+    position: absolute;
+    top: 7px;
+
+}
+
+#con_ust {
+    background-image: url("img/1.png");
+    background-repeat: no-repeat;
+    width: 851px;
+    height: 62px;
+    position: absolute;
+    left: 100px;
+
+
+}
+
+#con_orta {
+    background-image: url("img/2.png");
+    background-repeat: repeat-y;
+    width: 851px;
+    height: 250px;
+    position: absolute;
+    left: 100px;
+    top: 62px;
+}
+
+#con_alt {
+    background-image: url("img/3.png");
+    background-repeat: no-repeat;
+    width: 851px;
+    height: 200px;
+    position: absolute;
+    left: 100px;
+    top: 310px;
+}
+
+.conresim {
+    width: 280px;
+    height: 200px;
+    position: relative;
+    left: 50px;
+    bottom: 30px;
+
+}
+
+.stext {
+    position: absolute;
+    top: 170px;
+    left: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    line-height: 30px;
+    padding: 5px;
+    text-align: center;
+
+}
+
+.makale_detay {
+
+    width: 380px;
+    height: 200px;
+    position: relative;
+    left: 500px;
+
+}
+
+.buyuksaat {
+
+    position: absolute;
+    left: 25px;
+    top: 1px;
+
+}
+
+.buyuksaat_text {
+    width: 200px;
+    position: absolute;
+    top: 190px;
+    text-align: left;
+}
+
+.varda {
+
+    position: absolute;
+    left: 260px;
+    top: 1px;
+}
+
+.varda_text {
+    width: 275px;
+    position: absolute;
+    top: 190px;
+    text-align: left;
+
+}
+
+.varda img {
+    margin-left: 25%;
+    margin-right: 15%;
+}
+
+.taskopru {
+
+    position: absolute;
+    left: 550px;
+    top: 1px;
+}
+
+.taskopru_text {
+
+    width: 275px;
+    position: absolute;
+    top: 190px;
+    text-align: left;
+}
+
+.taskopru img {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.cerceve {
+    background-image: url(img/cerceve.png);
+    width: 200px;
+    height: 30px;
+    position: absolute;
+}
+
+.cerceve1 {
+    background-image: url(img/cerceve.png);
+    width: 204px;
+    height: 30px;
+    position: absolute;
+    left: 48px;
+}
+
+.cerceve2 {
+    background-image: url(img/cerceve.png);
+    width: 200px;
+    height: 30px;
+    position: absolute;
+    left: 29px;
+}
+
+.gtext {
+    text-align: center;
+    position: relative;
+    bottom: 15px;
+    font-size: larger;
+}
